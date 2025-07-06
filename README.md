@@ -19,4 +19,4 @@ The main highlight of the portfolio is the "Projects" section, where developers 
 The "About" section gives visitors insight into the developer’s background, passion, skills, and goals. This is an opportunity to introduce oneself and build a connection with the audience. The "Contact" section provides essential contact details such as email, GitHub, and LinkedIn links. This encourages networking and potential job opportunities.
 
 
-#OUTPUT:
+#OUTPUT:![Image](https://github.com/user-attachments/assets/1ef9c875-ae9a-4b72-8df4-e0e8e8453241)
